@@ -64,7 +64,7 @@ static UIColor *disabledColor;
     titleColor      = [UIColor whiteColor];
     checkedIcon     = [UIImage imageNamed:@"CTAssetsPickerChecked"];
     selectedColor   = [UIColor colorWithWhite:1 alpha:0.3];
-    disabledColor   = [UIColor colorWithWhite:1 alpha:0.9];
+    disabledColor   = [UIColor colorWithWhite:1 alpha:0.5];
 }
 
 - (id)initWithFrame:(CGRect)frame
